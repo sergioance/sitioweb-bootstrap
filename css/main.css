@@ -1,0 +1,17 @@
+.card-border {
+    border:solid 10px white;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all ease-out 0.2s;
+}
+
+
+.footer{
+text-align: center;
+font-size: 20px;
+color: wheat;
+ background: royalblue;
+ padding: 5px;
+ margin-top: 25px;
+ margin-bottom: 20px;
+}

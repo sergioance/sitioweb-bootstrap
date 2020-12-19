@@ -1,0 +1,17 @@
+.controls > .error {
+    color: #b94a48;
+    display: inline-block;
+    *display: inline;
+    padding-left: 5px;
+    vertical-align: middle;
+    *zoom: 1;
+}
+/* # estilo de pagina
+============================================*/
+.container-md {
+    width: 370px;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+}
